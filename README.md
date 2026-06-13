@@ -1,28 +1,74 @@
-# 💫 About Me:
-Hi, I'm Akash Das, an aspiring Data Analyst passionate about transforming raw data into meaningful insights. I work with Python, SQL, Power BI, Excel, and Machine Learning to solve business problems through data-driven decision making.<br><br>My interests include data visualization, business intelligence, time series forecasting, and AI-powered applications. I enjoy building end-to-end projects that combine analytics, forecasting, and interactive dashboards.<br><br>Currently expanding my skills in Machine Learning, Time Series Analysis, and Generative AI while building real-world portfolio projects.<br>
+# Hi, I'm Akash Das 👋
 
+### Data Analyst | Python | SQL | Power BI | Excel | Machine Learning
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akash Das) 
+I'm an aspiring Data Analyst passionate about transforming raw data into actionable insights. I leverage Python, SQL, Power BI, and Excel to analyze data, build dashboards, and solve business problems through data-driven decision making.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=akashdai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=akashdai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=akashdai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My interests include Data Visualization, Business Intelligence, Time Series Forecasting, Machine Learning, and AI-powered applications. I enjoy building end-to-end projects that combine analytics, forecasting, and interactive dashboards.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akashdai&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+## 🚀 Current Focus
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akashdai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* Advanced Data Analytics
+* Time Series Forecasting
+* Machine Learning
+* Business Intelligence & Dashboard Development
+* Generative AI Applications
 
----
-[![](https://komarev.com/ghpvc/?username=akashdai&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💼 Featured Projects
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/akashdas) 
+### 📈 AI Stock Analysis & Forecasting App
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Built an interactive Streamlit application for stock analysis, visualization, and forecasting using machine learning and time series techniques.
+
+### 📦 Supply Chain Analytics
+
+Performed end-to-end supply chain analysis to identify operational bottlenecks and generate business insights through data visualization.
+
+### 🍽️ Yelp Business Analytics
+
+Analyzed customer reviews and business performance metrics to uncover trends and actionable recommendations.
+
+### 📊 Data Visualization Dashboards
+
+Created interactive dashboards using Power BI and Python to communicate key business metrics effectively.
+
+## 🛠️ Technical Skills
+
+**Programming & Analytics**
+
+* Python
+* SQL
+* Excel
+* Statistics
+
+**Libraries & Frameworks**
+
+* Pandas
+* NumPy
+* Matplotlib
+* Plotly
+* Scikit-Learn
+* Streamlit
+
+**Data Visualization**
+
+* Power BI
+* Matplotlib
+* Plotly
+
+**Tools**
+
+* Git
+* GitHub
+* Jupyter Notebook
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/akash-das-data-analyst
+* GitHub: github.com/akashdai
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=akashdai\&show_icons=true\&theme=default)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdai\&layout=compact\&theme=default)
