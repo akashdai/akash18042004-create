@@ -89,20 +89,6 @@ A set of Power BI dashboards (regional sales, coffee shop revenue, logistics KPI
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashdai&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdai&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashdai&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 📫 Let's Connect
 
 I'm open to **remote analyst roles** and **freelance dashboard/data-cleaning projects**. If you've got a project, a question, or just want to say hi — reach out.
